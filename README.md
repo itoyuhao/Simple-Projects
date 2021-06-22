@@ -1,6 +1,6 @@
 ### Simple Projects: Python programming projects practice
 
-Hi,
+Hi!
 This repository contains some of my simple projects during the period of learning python.
 
 * Anagram: recursion
